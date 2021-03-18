@@ -1,3 +1,8 @@
+.d-inline-block{
+	display: inline-block;
+}
+
+
 .image{
 	float: right;
 }
@@ -7,4 +12,9 @@
 }
 .clear{
 	clear: both;
+}
+.divider{
+	height: 15px;
+	width: 2px;
+	background-color: red;
 }
