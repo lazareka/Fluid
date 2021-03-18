@@ -13,8 +13,24 @@
 .clear{
 	clear: both;
 }
-.divider{
+.text2::before {
+	content: 'GEOLAB' ;
+	text-transform: uppercase;
+	background-color: red;
+}
+.text2::after {
+	content: 'geolab';
+	text-transform: uppercase;
+	background-color: blue;
+}
+
+
+
+
+
+/*.divider{
 	height: 15px;
 	width: 2px;
 	background-color: red;
-}
+	margin: 0 10px;
+}*/
