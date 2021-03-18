@@ -9,6 +9,7 @@
 .text{
 	float: left;
 	width: 500px;
+	text-align: center;
 }
 .clear{
 	clear: both;
