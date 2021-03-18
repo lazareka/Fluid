@@ -1,0 +1,10 @@
+.image{
+	float: right;
+}
+.text{
+	float: left;
+	width: 500px
+}
+.clear{
+	clear: both;
+}
