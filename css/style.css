@@ -2,42 +2,10 @@
 	display: inline-block;
 }
 
-
-.image{
-	float: right;
-}
-.text{
-	float: left;
-	width: 500px;
-	text-align: center;
-}
 .clear{
 	clear: both;
 }
-.text2::before {
-	content: 'GEOLAB' ;
-	text-transform: uppercase;
-	background-color: red;
-}
-.text2::after {
-	content: 'geolab';
-	text-transform: uppercase;
-	background-color: blue;
-}
-.text3::after {
-	content: '';
-	width: 2px;
-	height: 20px;
-	background-color: red;
-	margin:0 10px;
-	display: inline-block;
-}
-.wraper::after {
-	content: '';
-	clear: both;
-	display: block;
 
-}
 
 
 
