@@ -11,6 +11,7 @@ html, body {
 }
 body{
 	padding: 2%;
+	padding-top: 0;
 }
 .main-wraper{
 	background-color: #042F5F;
@@ -61,8 +62,12 @@ body{
 }
 .light-blue p {
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 55px;
 	color: #fff;
+}
+.title{
+	text-align: center;
+	line-height: 18px;
 }
 
 
